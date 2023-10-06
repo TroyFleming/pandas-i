@@ -1,0 +1,7 @@
+,customer_id,renewal_nbr,term_in_years,customer_tenure,ages,age_group,loyalty_age_group
+0,1074,3,0.5,1.5,52,Adult,New Adult
+1,1065,0,1.0,0.0,51,Adult,New Adult
+2,1058,7,1.0,7.0,31,Young Adult,Loyal Young Adult
+3,1072,4,0.5,2.0,21,Young Adult,New Young Adult
+4,1080,6,1.0,6.0,28,Young Adult,Loyal Young Adult
+5,1095,2,0.5,1.0,33,Young Adult,New Young Adult
